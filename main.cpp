@@ -10,6 +10,7 @@ int main()
 {
     vector<*karta> ruka;
     statek* statek = new statek();
+    cout << "Mvahaha"
     cout << "Hello world!" << endl;
     return 0;
 }

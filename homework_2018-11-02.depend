@@ -13,3 +13,19 @@
 1541197142 c:\users\acer\documents\programovani\homework_2018-11-02\body.h
 	"karta.h"
 
+1541200858 source:c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\main.cpp
+	<iostream>
+	<vector>
+	"karta.h"
+	"body.h"
+	"statek.h"
+
+1541200858 c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\karta.h
+
+1541200858 c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\body.h
+	"karta.h"
+
+1541200858 c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\statek.h
+	"karta.h"
+	"body.h"
+
