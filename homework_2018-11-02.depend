@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\acer\documents\programovani\homework_2018-11-02\main.cpp
+	<iostream>
+
+1541184529 source:c:\users\acer\documents\programovani\homework_2018-11-02\karta.cpp
+	"karta.h"
+
+1541197477 c:\users\acer\documents\programovani\homework_2018-11-02\karta.h
+
+1541184729 source:c:\users\acer\documents\programovani\homework_2018-11-02\body.cpp
+	"body.h"
+
+1541197142 c:\users\acer\documents\programovani\homework_2018-11-02\body.h
+	"karta.h"
+
