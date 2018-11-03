@@ -2,18 +2,18 @@
 #define STATEK_H
 
 #include "karta.h"
-#include "body.h"
 
-class statek: public body, public karta
+class statek : public karta
 {
     public:
         statek();
-        virtual ~statek();
+        ~statek();
 
 
     protected:
 
     private:
+
 };
 
 #endif // STATEK_H

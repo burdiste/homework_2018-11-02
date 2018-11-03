@@ -32,7 +32,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="body.cpp" />
+		<Unit filename="body.h" />
+		<Unit filename="karta.cpp" />
+		<Unit filename="karta.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="statek.cpp" />
+		<Unit filename="statek.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
