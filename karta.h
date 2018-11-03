@@ -7,11 +7,11 @@ class karta
     public:
         karta();
         virtual ~karta();
-        int vrat_nakup_cena();
+        virtual int vrat_nakup_cena();
 
     protected:
 
-    private:
+ //   private:
         int m_nakup_cena;
 };
 
