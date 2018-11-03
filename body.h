@@ -8,12 +8,12 @@ class body : public karta
     public:
         body();
         virtual ~body();
-        int vrat_bodova_hodnota();
+        virtual int vrat_bodova_hodnota();
 
 
     protected:
 
-    private:
+ //   private:
         int m_bodova_hodnota;
 };
 

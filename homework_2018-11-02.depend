@@ -13,20 +13,19 @@
 1541197142 c:\users\acer\documents\programovani\homework_2018-11-02\body.h
 	"karta.h"
 
-1541200858 source:c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\main.cpp
+1541206427 source:c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\main.cpp
 	<iostream>
 	<vector>
 	"karta.h"
 	"body.h"
 	"statek.h"
 
-1541204617 c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\karta.h
+1541205988 c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\karta.h
 
-1541204617 c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\body.h
+1541205959 c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\body.h
 	"karta.h"
 
-1541204199 c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\statek.h
-	"karta.h"
+1541205827 c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\statek.h
 	"body.h"
 
 1541200858 source:c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\body.cpp
@@ -35,6 +34,18 @@
 1541200858 source:c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\karta.cpp
 	"karta.h"
 
-1541200858 source:c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\statek.cpp
+1541206803 source:c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\statek.cpp
 	"statek.h"
+
+1541206700 source:c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\penize.cpp
+	"penize.h"
+
+1541206722 c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\penize.h
+	"karta.h"
+
+1541206701 source:c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\medak.cpp
+	"medak.h"
+
+1541206803 c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\medak.h
+	"penize.h"
 
