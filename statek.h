@@ -1,13 +1,13 @@
 #ifndef STATEK_H
 #define STATEK_H
 
-#include "karta.h"
+#include "body.h"
 
-class statek : public karta
+class statek : public body
 {
     public:
         statek();
-        ~statek();
+        virtual ~statek();
 
 
     protected:

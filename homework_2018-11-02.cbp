@@ -37,6 +37,10 @@
 		<Unit filename="karta.cpp" />
 		<Unit filename="karta.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="medak.cpp" />
+		<Unit filename="medak.h" />
+		<Unit filename="penize.cpp" />
+		<Unit filename="penize.h" />
 		<Unit filename="statek.cpp" />
 		<Unit filename="statek.h" />
 		<Extensions>
