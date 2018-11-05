@@ -1,16 +1,24 @@
 # depslib dependency file v1.0
-1514140574 source:c:\users\acer\documents\programovani\homework_2018-11-02\main.cpp
+1541417452 source:c:\users\acer\documents\programovani\homework_2018-11-02\main.cpp
 	<iostream>
+	<vector>
+	"karta.h"
+	"body.h"
+	"statek.h"
+	"penize.h"
+	"medak.h"
+	"lovec_perel.h"
+	"harem.h"
 
-1541184529 source:c:\users\acer\documents\programovani\homework_2018-11-02\karta.cpp
+1541417283 source:c:\users\acer\documents\programovani\homework_2018-11-02\karta.cpp
 	"karta.h"
 
-1541197477 c:\users\acer\documents\programovani\homework_2018-11-02\karta.h
+1541417283 c:\users\acer\documents\programovani\homework_2018-11-02\karta.h
 
-1541184729 source:c:\users\acer\documents\programovani\homework_2018-11-02\body.cpp
+1541417283 source:c:\users\acer\documents\programovani\homework_2018-11-02\body.cpp
 	"body.h"
 
-1541197142 c:\users\acer\documents\programovani\homework_2018-11-02\body.h
+1541417283 c:\users\acer\documents\programovani\homework_2018-11-02\body.h
 	"karta.h"
 
 1541343365 source:c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\main.cpp
@@ -71,4 +79,42 @@
 1541344252 c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\harem.h
 	"body.h"
 	"penize.h"
+
+1541417284 c:\users\acer\documents\programovani\homework_2018-11-02\statek.h
+	"body.h"
+
+1541417284 c:\users\acer\documents\programovani\homework_2018-11-02\penize.h
+	"karta.h"
+
+1541417283 c:\users\acer\documents\programovani\homework_2018-11-02\medak.h
+	"penize.h"
+
+1541417283 c:\users\acer\documents\programovani\homework_2018-11-02\lovec_perel.h
+	"akce.h"
+
+1541417283 c:\users\acer\documents\programovani\homework_2018-11-02\akce.h
+	<string>
+	"karta.h"
+
+1541417283 c:\users\acer\documents\programovani\homework_2018-11-02\harem.h
+	"body.h"
+	"penize.h"
+
+1541417283 source:c:\users\acer\documents\programovani\homework_2018-11-02\medak.cpp
+	"medak.h"
+
+1541417284 source:c:\users\acer\documents\programovani\homework_2018-11-02\penize.cpp
+	"penize.h"
+
+1541417284 source:c:\users\acer\documents\programovani\homework_2018-11-02\statek.cpp
+	"statek.h"
+
+1541417283 source:c:\users\acer\documents\programovani\homework_2018-11-02\harem.cpp
+	"harem.h"
+
+1541417283 source:c:\users\acer\documents\programovani\homework_2018-11-02\lovec_perel.cpp
+	"lovec_perel.h"
+
+1541417283 source:c:\users\acer\documents\programovani\homework_2018-11-02\akce.cpp
+	"akce.h"
 

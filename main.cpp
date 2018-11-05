@@ -32,14 +32,14 @@ int main()
     {
         ruka.push_back(MEDAK);
     }
-    ruka.push_back(LOVEC_PEREL);
+//    ruka.push_back(LOVEC_PEREL);
 
     cout << "Statek stoji " << STATEK->vrat_nakup_cena() << endl;
     cout << "a ma hodnotu " << STATEK->vrat_bodova_hodnota() << " bodu" << endl;
     cout << endl;
-    cout << "a dela " << STATEK->do_sth() << endl;
-    cout << "Lovec perel stoji " << LOVEC_PEREL->vrat_nakup_cena() << endl;
-    cout << "a dela: " << LOVEC_PEREL->do_sth() << endl;
+
+//    cout << "Lovec perel stoji " << LOVEC_PEREL->vrat_nakup_cena() << endl;
+//    cout << "a dela: " << LOVEC_PEREL->do_sth() << endl;
 //    cout << "Harem stoji " << HAREM->vrat_nakup_cena() << endl;
     cout << "Harem ma hodnotu " << HAREM->vrat_bodova_hodnota() << endl;
     cout << "a dava na nakup " << HAREM->vrat_penize() << " penez" << endl;
