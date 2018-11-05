@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1541417452 source:c:\users\acer\documents\programovani\homework_2018-11-02\main.cpp
+1541422024 source:c:\users\acer\documents\programovani\homework_2018-11-02\main.cpp
 	<iostream>
 	<vector>
 	"karta.h"
@@ -18,7 +18,7 @@
 1541417283 source:c:\users\acer\documents\programovani\homework_2018-11-02\body.cpp
 	"body.h"
 
-1541417283 c:\users\acer\documents\programovani\homework_2018-11-02\body.h
+1541421912 c:\users\acer\documents\programovani\homework_2018-11-02\body.h
 	"karta.h"
 
 1541343365 source:c:\users\acer\documents\programovani\homework_2018-11-02\homework_2018-11-02\main.cpp
@@ -83,7 +83,7 @@
 1541417284 c:\users\acer\documents\programovani\homework_2018-11-02\statek.h
 	"body.h"
 
-1541417284 c:\users\acer\documents\programovani\homework_2018-11-02\penize.h
+1541421912 c:\users\acer\documents\programovani\homework_2018-11-02\penize.h
 	"karta.h"
 
 1541417283 c:\users\acer\documents\programovani\homework_2018-11-02\medak.h
@@ -109,7 +109,7 @@
 1541417284 source:c:\users\acer\documents\programovani\homework_2018-11-02\statek.cpp
 	"statek.h"
 
-1541417283 source:c:\users\acer\documents\programovani\homework_2018-11-02\harem.cpp
+1541421912 source:c:\users\acer\documents\programovani\homework_2018-11-02\harem.cpp
 	"harem.h"
 
 1541417283 source:c:\users\acer\documents\programovani\homework_2018-11-02\lovec_perel.cpp

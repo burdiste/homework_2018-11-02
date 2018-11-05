@@ -2,7 +2,7 @@
 #define BODY_H
 #include "karta.h"
 
-class body : public karta
+class body : virtual public karta
 
 {
     public:

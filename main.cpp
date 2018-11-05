@@ -38,9 +38,10 @@ int main()
     cout << "a ma hodnotu " << STATEK->vrat_bodova_hodnota() << " bodu" << endl;
     cout << endl;
 
-//    cout << "Lovec perel stoji " << LOVEC_PEREL->vrat_nakup_cena() << endl;
-//    cout << "a dela: " << LOVEC_PEREL->do_sth() << endl;
-//    cout << "Harem stoji " << HAREM->vrat_nakup_cena() << endl;
+    cout << "Lovec perel stoji " << LOVEC_PEREL->vrat_nakup_cena() << endl;
+    cout << "a dela: " << LOVEC_PEREL->do_sth() << endl;
+    cout << endl;
+    cout << "Harem stoji " << HAREM->vrat_nakup_cena() << endl;
     cout << "Harem ma hodnotu " << HAREM->vrat_bodova_hodnota() << endl;
     cout << "a dava na nakup " << HAREM->vrat_penize() << " penez" << endl;
 

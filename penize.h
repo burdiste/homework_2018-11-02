@@ -3,7 +3,7 @@
 #include "karta.h"
 
 
-class penize : public karta
+class penize : virtual public karta
 {
     public:
         penize();
