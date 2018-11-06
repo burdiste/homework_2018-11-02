@@ -1,7 +1,8 @@
 # depslib dependency file v1.0
-1541422024 source:c:\users\acer\documents\programovani\homework_2018-11-02\main.cpp
+1541514371 source:c:\users\acer\documents\programovani\homework_2018-11-02\main.cpp
 	<iostream>
 	<vector>
+	<string>
 	"karta.h"
 	"body.h"
 	"statek.h"
@@ -10,12 +11,14 @@
 	"lovec_perel.h"
 	"harem.h"
 
-1541417283 source:c:\users\acer\documents\programovani\homework_2018-11-02\karta.cpp
+1541502293 source:c:\users\acer\documents\programovani\homework_2018-11-02\karta.cpp
 	"karta.h"
+	<string>
 
-1541417283 c:\users\acer\documents\programovani\homework_2018-11-02\karta.h
+1541510484 c:\users\acer\documents\programovani\homework_2018-11-02\karta.h
+	<string>
 
-1541417283 source:c:\users\acer\documents\programovani\homework_2018-11-02\body.cpp
+1541424518 source:c:\users\acer\documents\programovani\homework_2018-11-02\body.cpp
 	"body.h"
 
 1541421912 c:\users\acer\documents\programovani\homework_2018-11-02\body.h
@@ -80,7 +83,7 @@
 	"body.h"
 	"penize.h"
 
-1541417284 c:\users\acer\documents\programovani\homework_2018-11-02\statek.h
+1541510937 c:\users\acer\documents\programovani\homework_2018-11-02\statek.h
 	"body.h"
 
 1541421912 c:\users\acer\documents\programovani\homework_2018-11-02\penize.h
@@ -100,19 +103,19 @@
 	"body.h"
 	"penize.h"
 
-1541417283 source:c:\users\acer\documents\programovani\homework_2018-11-02\medak.cpp
+1541510809 source:c:\users\acer\documents\programovani\homework_2018-11-02\medak.cpp
 	"medak.h"
 
 1541417284 source:c:\users\acer\documents\programovani\homework_2018-11-02\penize.cpp
 	"penize.h"
 
-1541417284 source:c:\users\acer\documents\programovani\homework_2018-11-02\statek.cpp
+1541510800 source:c:\users\acer\documents\programovani\homework_2018-11-02\statek.cpp
 	"statek.h"
 
-1541421912 source:c:\users\acer\documents\programovani\homework_2018-11-02\harem.cpp
+1541510800 source:c:\users\acer\documents\programovani\homework_2018-11-02\harem.cpp
 	"harem.h"
 
-1541417283 source:c:\users\acer\documents\programovani\homework_2018-11-02\lovec_perel.cpp
+1541510805 source:c:\users\acer\documents\programovani\homework_2018-11-02\lovec_perel.cpp
 	"lovec_perel.h"
 
 1541417283 source:c:\users\acer\documents\programovani\homework_2018-11-02\akce.cpp
